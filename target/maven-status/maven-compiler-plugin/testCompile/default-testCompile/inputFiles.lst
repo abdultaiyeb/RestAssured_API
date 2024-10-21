@@ -1,7 +1,10 @@
 C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\endpoints\Routes.java
+C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\endpoints\StoreEndPoints.java
 C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\endpoints\UserEndPoints.java
+C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\payloads\Store.java
 C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\payloads\User.java
 C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\test\DataDriventests.java
+C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\test\StoreTests.java
 C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\test\UserTests.java
 C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\utilities\DataProviders.java
 C:\Users\AbdulSiyamwala\git\My Project\API\RestAssured_API_Project\src\test\java\utilities\ExtentReportManager.java

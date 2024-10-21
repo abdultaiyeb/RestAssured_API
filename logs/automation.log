@@ -43,3 +43,25 @@
 12:44:16.693 [main] INFO  test.UserTests - ********** User updated ***************
 12:44:16.698 [main] INFO  test.UserTests - **********   Deleting User  ***************
 12:44:17.924 [main] INFO  test.UserTests - ********** User deleted ***************
+05:31:38.504 [main] DEBUG test.StoreTests - Store setup complete with generated data.
+05:31:38.553 [main] INFO  test.StoreTests - ********** Creating store order ***************
+05:31:43.522 [main] INFO  test.StoreTests - ********** Reading Store Info ***************
+05:31:44.766 [main] INFO  test.StoreTests - ********** Store info displayed ***************
+05:31:44.770 [main] INFO  test.StoreTests - ********** Deleting Store ***************
+05:31:45.910 [main] INFO  test.StoreTests - ********** Store deleted ***************
+05:32:56.864 [main] DEBUG test.StoreTests - Store setup complete with generated data.
+05:32:56.919 [main] INFO  test.StoreTests - ********** Creating store order ***************
+05:33:04.401 [main] INFO  test.StoreTests - ********** Store order created ***************
+05:33:04.422 [main] INFO  test.StoreTests - ********** Reading Store Info ***************
+05:33:05.607 [main] INFO  test.StoreTests - ********** Store info displayed ***************
+05:33:05.616 [main] INFO  test.StoreTests - ********** Deleting Store ***************
+05:33:06.735 [main] INFO  test.StoreTests - ********** Store deleted ***************
+01:53:06.372 [main] DEBUG test.UserTests - debugging.....
+01:53:06.397 [main] INFO  test.UserTests - ********** Creating user  ***************
+01:53:10.742 [main] INFO  test.UserTests - **********User is created  ***************
+01:53:10.753 [main] INFO  test.UserTests - ********** Reading User Info ***************
+01:53:13.049 [main] INFO  test.UserTests - **********User info  is displayed ***************
+01:53:13.051 [main] INFO  test.UserTests - ********** Updating User ***************
+01:53:15.650 [main] INFO  test.UserTests - ********** User updated ***************
+01:53:15.652 [main] INFO  test.UserTests - **********   Deleting User  ***************
+01:53:16.966 [main] INFO  test.UserTests - ********** User deleted ***************

@@ -13,7 +13,7 @@ public class UserEndPoints {
 	            .accept("application/json")
 	            .body(payload)
 	            .when()
-	            .post(Routes.post_url); 
+	            .post(Routes.User.POST_URL); 
 
 	    return response;
 	}
@@ -22,7 +22,7 @@ public class UserEndPoints {
         Response response = given()
                 .pathParam("username", username)
                 .when()
-                .get(Routes.get_url); 
+                .get(Routes.User.GET_URL); 
 
         return response;
     }
@@ -34,7 +34,7 @@ public class UserEndPoints {
                 .body(payload)
                 .pathParam("username", username)
                 .when()
-                .put(Routes.update_url);
+                .put(Routes.User.UPDATE_URL);
 
         return response;
     }
@@ -43,7 +43,7 @@ public class UserEndPoints {
         Response response = given()
                 .pathParam("username", username)
                 .when()
-                .delete(Routes.delete_url);
+                .delete(Routes.User.DELETE_URL);
 
         return response;
     }
